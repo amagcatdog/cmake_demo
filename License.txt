@@ -1,0 +1,3 @@
+# cmake demo license
+
+This is a cmake demo program, anyone can use it free. 
